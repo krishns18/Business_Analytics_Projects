@@ -1,4 +1,4 @@
-### ISYS812 Python for Data Analysis Project (__Text Analytics, Topic Modeling, Python__)
+### Amazon Fine Food Reviews (__Text Analytics, Classification, Topic Modeling, Python__)
 
 #### A. Dataset Name
 * The dataset which we chose for our project is [Amazon Fine Food Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
