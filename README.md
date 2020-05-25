@@ -16,6 +16,9 @@ This repository contains all the projects completed as a part of MSBA coursework
 - This chatbot is a more simplistic version of a question answering systems developed utilizing a subset of SQuAD(Stanford Question Answering Dataset).
 - The chatbot utilizes information retrieval and natural language processing techniques to provide answers to the user query for topics such as Marvel Comics and Modern History.
 
-#### 5. TBD....
+#### 5. Mavericks Arena Ticket Booking System
+- The database design of a fictitious organization known as Mavericks Arena that stages indoor and outdoor shows.
+
+#### 6. TBD...
 
 
