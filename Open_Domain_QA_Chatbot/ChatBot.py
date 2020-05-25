@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 ########################################################################################
 # Name: ChatBot.py                                                                     #
-# Author(s): Shailesh Krishna, Sally Mostafa, U Khyoi Nu                               #
+# Author(s): Shailesh Krishna                                                          #
 # Description: Open domain QA chatbot wrapper script.                                  #
 ########################################################################################
 
