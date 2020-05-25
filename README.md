@@ -19,6 +19,6 @@ This repository contains all the projects completed as a part of MSBA coursework
 #### 5. Mavericks Arena Ticket Booking System
 - The database design of a fictitious organization known as Mavericks Arena that stages indoor and outdoor shows.
 
-#### 6. TBD...
+#### Updates in progress... 
 
 
