@@ -19,6 +19,11 @@ This repository contains all the projects completed as a part of MSBA coursework
 #### 5. Mavericks Arena Ticket Booking System
 - The database design of a fictitious organization known as Mavericks Arena that stages indoor and outdoor shows.
 
+#### 6. Grok Investments
+- Based on the market research and competitor analysis performed, we were able to gather some valuable insights and used them to create **grokinvestments.com**.
+- Using the minimalistic approach, we incorporated a clean layout and easy navigation on the website. Some of the prominent features of our website include investment quizzes, an interactive chatbot, immigrant success stories, and a full-fledged learning portal.
+- The content on our website is well-curated to satisfy our site visitor's inquisitiveness, and it resonates well with the product motto of intuitive learning.
+
 #### Updates in progress... 
 
 
