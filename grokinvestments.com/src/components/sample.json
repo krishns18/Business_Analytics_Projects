@@ -1,0 +1,29 @@
+[
+  {
+    "restaurant": "LaDuree",
+    "food_type": "Dessert",
+    "coordinate": {
+      "lat": 34.07,
+      "long": -118.36
+    },
+    "yelp_rating": 3.5
+  },
+  {
+    "restaurant": "LaDuree",
+    "food_type": "Dessert",
+    "coordinate": {
+      "lat": 48.87,
+      "long": 2.30
+    },
+    "yelp_rating": 4
+  },
+  {
+    "restaurant": "Pluto's",
+    "food_type": "Salad bar",
+    "coordinate": {
+      "lat": 37.76,
+      "long": -122.46
+    },
+    "yelp_rating": 4
+  }
+]

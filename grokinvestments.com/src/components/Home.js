@@ -52,7 +52,7 @@ class Home extends Component {
     return (
       <div>
 
-        <section id="home" className="home home-three vertical-scrolling">
+        <section id="home" className="home home-one vertical-scrolling">
           <div className="container">
             <div className="row">
               <div className="col-md-5 col-sm-12">
